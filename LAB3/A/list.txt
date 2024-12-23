@@ -1,0 +1,2 @@
+./texts/1.txt
+./texts/3.txt
